@@ -3,9 +3,8 @@ In this repository we share results of various analyses of a corpus of 28 German
 
 The methods we applied are
 1) Named Entity Recognition (Stanford Named Entity Recognizer)
-2) Topic Modeling (DARIAH Topics Explorer)
-3) Sentiment Analysis (SentText) and
-4) Semi-automatic Annotation (CATMA).
+2) Topic Modeling (DARIAH Topics Explorer) and semi-automatic annotation (CATMA) and
+3) Sentiment Analysis (CATMA).
 
 Data sheets, visualisations and documentation can be found in the respective folders.
 
