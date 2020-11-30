@@ -1,0 +1,17 @@
+Burning Magic 1,,,,
+,Frau,Mann,Neutral,Gesamt
+Precision,"96,3","78,87",1,"91,1"
+Recall,"55,32","73,68","37,5","58,74"
+F1-Score,"70,27","76,19","54,55","71,43"
+,,,,
+Mingus,,,,
+,Frau,Mann,Neutral,Gesamt
+Precision,"90,63","98,06",1,"96,67"
+Recall,"70,73","87,07","55,56","78,8"
+F1-Score,"79,45","92,24","71,43","86,83"
+,,,,
+Durchschnitt,,,,
+,Frau,Mann,Neutral,Gesamt
+Precision,"93,47","88,47",1,"93,89"
+Recall,"63,03","80,38","46,53","68,77"
+F1-Score,"74,86","84,22","62,99","79,13"
